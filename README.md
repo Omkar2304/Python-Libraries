@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Python Libraries Learning Repository</title>
+
 </head>
 
 <body>
